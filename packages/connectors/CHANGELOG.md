@@ -1,5 +1,13 @@
 # @wagmi/connectors
 
+## 3.0.0
+
+### Patch Changes
+
+- Updated dependencies [8504c8b]
+- Updated dependencies [6bf0ab9]
+  - @wagmi/chains@1.6.0
+
 ## 2.6.6
 
 ### Patch Changes
